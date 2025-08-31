@@ -1,5 +1,7 @@
 # 💫 Hi I'm Gibran
-🔭 I have completed my studies at university and am currently seeking new career opportunities in the IT field.<br>🌱 Have interest at data, AI/ML/DL, Web dev, Server, also linux.<br>📫 How to reach me: https://www.linkedin.com/in/gibranfaktiananwar/
+🔭 I have completed my studies at university and am currently seeking new career opportunities in the IT field.<br>
+🌱 Have interest at Data, AI/ML/DL, Web dev, Server, also Linux.<br>
+📫 How to reach me: https://www.linkedin.com/in/gibranfaktiananwar/
 
 
 ## 🌐 Socials:
