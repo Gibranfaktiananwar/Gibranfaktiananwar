@@ -62,23 +62,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="left">
-
-<a href="https://github.com/GibranfaktianAnwar">
-  <img src="https://github-readme-stats.vercel.app/api?username=GibranfaktianAnwar&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Gibran's GitHub stats" width="100%">
-</a>
-
-<br/>
-
-<a href="https://github.com/GibranfaktianAnwar">
-  <img src="https://nirzak-streak-stats.vercel.app?user=GibranfaktianAnwar&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="Gibran's GitHub Streak" width="100%">
-</a>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GibranfaktianAnwar&layout=compact&langs_count=12&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%">
-
-</div>
+<div align="left"> <a href="https://github.com/GibranfaktianAnwar"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GibranfaktianAnwar&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Gibran's GitHub stats"> </a> <a href="https://github.com/GibranfaktianAnwar"> <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=GibranfaktianAnwar&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="Gibran's GitHub Streak"> </a> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GibranfaktianAnwar&layout=compact&langs_count=12&theme=tokyonight&hide_border=true" alt="Top Languages"> </div>
 
 ---
 
